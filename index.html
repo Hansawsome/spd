@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suprema Partners Day 2025</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section id="hero" class="hero-section">
+        <div class="hero-overlay">
+            <div class="container">
+                <div class="hero-content">
+                    <img src="assets/images/suprema-logo.png" alt="Suprema Logo" class="hero-logo">
+                    <h1 class="hero-title">Suprema Partners Day 2025</h1>
+                    <p class="hero-subtitle">AI 보안과 출입통제의 미래를 함께 만들어갑니다</p>
+                    <button class="cta-button" onclick="scrollToSection('registration')">
+                        지금 등록하기
+                        <span class="arrow">→</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 아젠다 Section -->
+    <section id="agenda" class="agenda-section">
+        <div class="container">
+            <h2 class="section-title">행사 일정</h2>
+            <div class="agenda-content">
+                <div class="event-info">
+                    <div class="info-item">
+                        <div class="info-icon">📅</div>
+                        <div class="info-content">
+                            <h4>일정</h4>
+                            <p>2025년 3월 15일 (토) 09:00 - 18:00</p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">📍</div>
+                        <div class="info-content">
+                            <h4>장소</h4>
+                            <p>서울 강남구 코엑스 컨벤션센터</p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">🎯</div>
+                        <div class="info-content">
+                            <h4>주요 주제</h4>
+                            <p>AI 보안, 출입통제 혁신, 파트너십 전략</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="schedule">
+                    <div class="schedule-item">
+                        <div class="time">09:00 - 10:00</div>
+                        <div class="session">등록 및 기조연설</div>
+                    </div>
+                    <div class="schedule-item">
+                        <div class="time">10:00 - 12:00</div>
+                        <div class="session">AI 보안 기술 세션</div>
+                    </div>
+                    <div class="schedule-item">
+                        <div class="time">12:00 - 13:30</div>
+                        <div class="session">점심 및 네트워킹</div>
+                    </div>
+                    <div class="schedule-item">
+                        <div class="time">13:30 - 16:00</div>
+                        <div class="session">출입통제 혁신 & 파트너십</div>
+                    </div>
+                    <div class="schedule-item">
+                        <div class="time">16:00 - 18:00</div>
+                        <div class="session">Q&A 및 네트워킹 리셉션</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 등록폼 Section -->
+    <section id="registration" class="registration-section">
+        <div class="container">
+            <h2 class="section-title">행사 등록</h2>
+            <div class="registration-form-wrapper">
+                <form id="registrationForm" class="registration-form">
+                    <div class="form-group">
+                        <label for="name">이름 *</label>
+                        <input type="text" id="name" name="name" required>
+                        <span class="error-message" id="nameError"></span>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="company">회사명 *</label>
+                        <input type="text" id="company" name="company" required>
+                        <span class="error-message" id="companyError"></span>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="position">직함</label>
+                        <input type="text" id="position" name="position">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="email">이메일 *</label>
+                        <input type="email" id="email" name="email" required>
+                        <span class="error-message" id="emailError"></span>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="phone">전화번호</label>
+                        <input type="tel" id="phone" name="phone">
+                    </div>
+                    
+                    <button type="submit" class="submit-button">
+                        등록하기
+                        <span class="loading-spinner" id="loadingSpinner"></span>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- 문의 Section -->
+    <section id="contact" class="contact-section">
+        <div class="container">
+            <h2 class="section-title">문의</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <div class="contact-icon">📧</div>
+                        <div class="contact-details">
+                            <h4>이메일 문의</h4>
+                            <p><a href="mailto:shhan@suprema.co.kr">shhan@suprema.co.kr</a></p>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">📞</div>
+                        <div class="contact-details">
+                            <h4>전화 문의</h4>
+                            <p>02-2233-0000</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Success Modal -->
+    <div id="successModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-icon">✅</div>
+            <h3>등록이 완료되었습니다!</h3>
+            <p>행사 관련 안내사항은 등록하신 이메일로 발송됩니다.</p>
+        </div>
+    </div>
+
+    <!-- Error Modal -->
+    <div id="errorModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-icon">❌</div>
+            <h3>등록 중 오류가 발생했습니다</h3>
+            <p>잠시 후 다시 시도해주세요.</p>
+        </div>
+    </div>
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>
