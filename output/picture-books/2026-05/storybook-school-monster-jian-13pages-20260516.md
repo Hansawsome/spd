@@ -21,13 +21,13 @@
 모든 페이지에서 아래 **시그니처(SIGNATURE)** 특징은 100% 동일하게 유지합니다. 표정과 동작만 장면에 따라 바뀝니다.
 
 ### 장서연 선생님 (Teacher Jang Seo-yeon)
-- **SIGNATURE**: shoulder-length neat warm-brown bob hair, soft mint-green cardigan over cream blouse, round thin-framed glasses, small silver star earrings
-- 체형: 20대 후반 여교사, 키 165cm, 다정하고 차분한 인상
+- **SIGNATURE**: warm-brown hair in a soft elegant low bun, refined sage-green cardigan over cream blouse, round thin-framed glasses, small silver star earrings
+- 체형: 30대 여교사, 키 165cm, 차분하고 그윽하며 임자앤 있는 인상
 - 소품: 갈색 가죽 토트백
 
 ### 지안 (Ji-an, 4학년 여학생)
-- **SIGNATURE**: black hair in two low pigtails tied with bright yellow hair ties, red hooded sweatshirt, denim skirt, white sneakers
-- 체형: 만 10세 여자아이, 키 140cm, 호기심 많고 용감한 표정
+- **SIGNATURE**: black hair in a neat low ponytail with a small yellow hair clip, tidy red crew-neck knit sweater, dark denim jeans, white sneakers
+- 체형: 만 10세 여자아이, 키 140cm, 호기심 많고 용감하며 또래보다 조금 의젓한 표정
 - 성격: 먼저 나서서 문제를 해결하는 리더형
 
 ### 윤아 (Yun-a, 4학년 여학생, 지안의 옆 반 친구)
@@ -72,8 +72,8 @@
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
 LOCK ESTABLISHED — main characters:
-Teacher Jang Seo-yeon, young woman with SIGNATURE shoulder-length neat warm-brown bob hair, SIGNATURE soft mint-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, small silver star earrings, gentle curious expression, holding a brown leather tote bag, standing before a glowing classroom door.
-In the lower corner, two 10-year-old girls: Ji-an with SIGNATURE black hair in two low pigtails with bright yellow hair ties, SIGNATURE red hooded sweatshirt and denim skirt; Yun-a with SIGNATURE short bob and pink butterfly hairpin, SIGNATURE purple-and-white striped shirt and beige overall dungarees, both gazing with wonder.
+Teacher Jang Seo-yeon, young woman with SIGNATURE warm-brown hair in a soft elegant low bun, SIGNATURE refined sage-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, small silver star earrings, gentle curious expression, holding a brown leather tote bag, standing before a glowing classroom door.
+In the lower corner, two 10-year-old girls: Ji-an with SIGNATURE black hair in a neat low ponytail with a small yellow hair clip, SIGNATURE tidy red crew-neck knit sweater and dark denim jeans; Yun-a with SIGNATURE short bob and pink butterfly hairpin, SIGNATURE purple-and-white striped shirt and beige overall dungarees, both gazing with wonder.
 Setting: dim school hallway at evening, one ordinary wooden classroom door radiating warm golden magical light, sparkles spilling from the doorframe, empty title space at the top.
 Storybook keywords: soft painterly texture, warm cozy lighting, gentle inviting atmosphere, rich storybook colors.
 Rendering: detailed full-bleed composition, balanced layout, picture book cover quality.
@@ -93,7 +93,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE shoulder-length neat warm-brown bob hair, SIGNATURE soft mint-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, small silver star earrings, holding brown leather tote bag.
+CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE warm-brown hair in a soft elegant low bun, SIGNATURE refined sage-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, small silver star earrings, holding brown leather tote bag.
 Action: standing at an open classroom doorway, one hand on the door handle, eyes wide with astonishment, leaning slightly forward to look through.
 Setting: instead of a normal hallway, the doorway reveals a dreamy unknown world — swirling soft clouds, floating glowing lights, a pathway of gentle pastel colors stretching into the distance.
 Storybook keywords: soft painterly texture, warm cozy lighting, sense of wonder and mystery, rich storybook colors.
@@ -114,7 +114,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE shoulder-length neat warm-brown bob hair, SIGNATURE soft mint-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, holding brown leather tote bag.
+CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE warm-brown hair in a soft elegant low bun, SIGNATURE refined sage-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, holding brown leather tote bag.
 Action: stepping forward through the glowing doorway with one foot raised mid-step, expression a mix of hesitation and excitement, free hand pressed gently to her chest.
 Setting: threshold between the ordinary dim hallway behind her and the magical pastel world ahead, warm golden light wrapping around her, sparkles drifting past.
 Storybook keywords: soft painterly texture, warm glowing lighting, gentle suspense, rich storybook colors.
@@ -136,7 +136,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE shoulder-length neat warm-brown bob hair, SIGNATURE soft mint-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, holding brown leather tote bag, smiling with relief.
+CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE warm-brown hair in a soft elegant low bun, SIGNATURE refined sage-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, holding brown leather tote bag, smiling with relief.
 Action: being warmly welcomed by a cheerful crowd of many diverse teachers waving and greeting her.
 Setting: a bright festive magical hall, colorful paper lanterns and banners overhead, warm string lights, a festive joyful gathering of teachers of all ages.
 Storybook keywords: soft painterly texture, warm celebratory lighting, joyful welcoming atmosphere, rich storybook colors.
@@ -158,7 +158,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE shoulder-length neat warm-brown bob hair, SIGNATURE soft mint-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, joyful happy expression.
+CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE warm-brown hair in a soft elegant low bun, SIGNATURE refined sage-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, joyful happy expression.
 Action: happily holding a small stack of colorful tickets in one hand and a reusable tumbler and notebooks in the other arm.
 Setting: a lively festival hall with cheerful mini-game booths and craft tables, teachers playing games and making crafts, festive paper decorations, warm bright colors everywhere.
 Storybook keywords: soft painterly texture, warm cheerful lighting, playful festive energy, rich storybook colors.
@@ -180,7 +180,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE shoulder-length neat warm-brown bob hair, SIGNATURE soft mint-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, surprised wide-eyed expression.
+CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE warm-brown hair in a soft elegant low bun, SIGNATURE refined sage-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, surprised wide-eyed expression.
 NEW CHARACTER — Book Monster: SIGNATURE round fluffy lavender-purple blob creature, SIGNATURE oversized friendly googly eyes, tiny stubby arms, cartoonish cute NOT scary, slightly silly expression.
 Action: teachers looking up in surprise as glowing magical books gently rain down from the sky, the cute purple blob monster popping into the scene with a puff of sparkles.
 Setting: the festival hall now filled with floating sparkling books descending softly, warm dramatic light.
@@ -203,7 +203,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE shoulder-length neat warm-brown bob hair, SIGNATURE soft mint-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, listening attentively with a thoughtful determined expression, holding a glowing book to her chest.
+CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE warm-brown hair in a soft elegant low bun, SIGNATURE refined sage-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, listening attentively with a thoughtful determined expression, holding a glowing book to her chest.
 CONSISTENCY REFERENCE — Book Monster: SIGNATURE round fluffy lavender-purple blob, SIGNATURE oversized friendly googly eyes, cute NOT scary.
 Action: teachers gathered together looking up as glowing radiant words and light beams swirl gently from above, the purple blob monster bouncing curiously nearby.
 Setting: magical festival hall, warm golden light rays from the sky, sparkles, a sense of gentle revelation.
@@ -226,7 +226,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE shoulder-length neat warm-brown bob hair, SIGNATURE soft mint-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, worried but brave expression, holding an open glowing book up high.
+CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE warm-brown hair in a soft elegant low bun, SIGNATURE refined sage-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, worried but brave expression, holding an open glowing book up high.
 CONSISTENCY REFERENCE — Book Monster: SIGNATURE round fluffy lavender-purple blob, SIGNATURE oversized friendly googly eyes, now grown much bigger, still cute and goofy NOT scary, looking puffed up and bouncy.
 Action: teachers standing together holding glowing books toward the enlarged round purple blob, gentle beams of light from the books, no violence — a magical playful standoff.
 Setting: festival hall, warm dramatic lighting, swirling sparkles, tense but non-threatening mood.
@@ -249,7 +249,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-LOCK ESTABLISHED — Ji-an: SIGNATURE black hair in two low pigtails with bright yellow hair ties, SIGNATURE red hooded sweatshirt, SIGNATURE denim skirt, white sneakers, curious worried expression.
+LOCK ESTABLISHED — Ji-an: SIGNATURE black hair in a neat low ponytail with a small yellow hair clip, SIGNATURE tidy red crew-neck knit sweater, SIGNATURE dark denim jeans, white sneakers, curious worried expression.
 LOCK ESTABLISHED — Yun-a: SIGNATURE short bob haircut with pink butterfly hairpin, SIGNATURE purple-and-white striped shirt, SIGNATURE beige overall dungarees, light blue sneakers, calm thoughtful expression.
 Action: Ji-an standing in a classroom doorway talking to Yun-a, both looking puzzled, gesturing toward empty teacher desks.
 Setting: an ordinary elementary school classroom in the evening, empty teacher's desk, rows of student desks, soft warm window light.
@@ -272,7 +272,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Ji-an: SIGNATURE black hair in two low pigtails with bright yellow hair ties, SIGNATURE red hooded sweatshirt, SIGNATURE denim skirt, white sneakers, worried searching expression.
+CONSISTENCY REFERENCE — Ji-an: SIGNATURE black hair in a neat low ponytail with a small yellow hair clip, SIGNATURE tidy red crew-neck knit sweater, SIGNATURE dark denim jeans, white sneakers, worried searching expression.
 CONSISTENCY REFERENCE — Yun-a: SIGNATURE short bob with pink butterfly hairpin, SIGNATURE purple-and-white striped shirt, SIGNATURE beige overall dungarees, light blue sneakers, anxious expression.
 Action: the two girls walking together down an empty school corridor, peeking into doorways of a teachers' office and a computer room, looking around for someone.
 Setting: a long quiet elementary school hallway in the evening, several open classroom doors labeled with rooms, soft amber light, a feeling of emptiness.
@@ -295,7 +295,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Ji-an: SIGNATURE black hair in two low pigtails with bright yellow hair ties, SIGNATURE red hooded sweatshirt, SIGNATURE denim skirt, white sneakers, eyes wide with discovery.
+CONSISTENCY REFERENCE — Ji-an: SIGNATURE black hair in a neat low ponytail with a small yellow hair clip, SIGNATURE tidy red crew-neck knit sweater, SIGNATURE dark denim jeans, white sneakers, eyes wide with discovery.
 CONSISTENCY REFERENCE — Yun-a: SIGNATURE short bob with pink butterfly hairpin, SIGNATURE purple-and-white striped shirt, SIGNATURE beige overall dungarees, light blue sneakers, leaning in curiously.
 Action: Ji-an crouching on a staircase landing holding a glowing magical phone-like device, its screen showing a tiny glimpse of teachers facing a small cute purple blob; Yun-a peering over her shoulder.
 Setting: a school staircase in the evening, warm light glowing from the small device illuminating both girls' faces.
@@ -318,7 +318,7 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Ji-an: SIGNATURE black hair in two low pigtails with bright yellow hair ties, SIGNATURE red hooded sweatshirt, SIGNATURE denim skirt, white sneakers, determined hopeful expression, reading an open book.
+CONSISTENCY REFERENCE — Ji-an: SIGNATURE black hair in a neat low ponytail with a small yellow hair clip, SIGNATURE tidy red crew-neck knit sweater, SIGNATURE dark denim jeans, white sneakers, determined hopeful expression, reading an open book.
 Action: many elementary school children of various ages sitting at their desks across a classroom, all happily and quietly reading open books, Ji-an among them leading by example.
 Setting: a warm bright classroom full of focused reading children, soft golden light, gentle glow rising from the open books, a calm powerful united mood.
 Storybook keywords: soft painterly texture, warm uplifting lighting, peaceful triumphant teamwork, rich storybook colors.
@@ -340,8 +340,8 @@ clean professional children's book illustration, publication-ready quality, pris
 **이미지 프롬프트 (banana nano)**:
 ```
 Storybook children's picture book illustration, classic warm hand-painted style.
-CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE shoulder-length neat warm-brown bob hair, SIGNATURE soft mint-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, warm peaceful happy smile.
-CONSISTENCY REFERENCE — Ji-an: SIGNATURE black hair in two low pigtails with bright yellow hair ties, SIGNATURE red hooded sweatshirt, SIGNATURE denim skirt. CONSISTENCY REFERENCE — Yun-a: SIGNATURE short bob with pink butterfly hairpin, SIGNATURE purple-and-white striped shirt, SIGNATURE beige overall dungarees.
+CONSISTENCY REFERENCE — Teacher Jang Seo-yeon: SIGNATURE warm-brown hair in a soft elegant low bun, SIGNATURE refined sage-green cardigan over cream blouse, SIGNATURE round thin-framed glasses, warm peaceful happy smile.
+CONSISTENCY REFERENCE — Ji-an: SIGNATURE black hair in a neat low ponytail with a small yellow hair clip, SIGNATURE tidy red crew-neck knit sweater, SIGNATURE dark denim jeans. CONSISTENCY REFERENCE — Yun-a: SIGNATURE short bob with pink butterfly hairpin, SIGNATURE purple-and-white striped shirt, SIGNATURE beige overall dungarees.
 CONSISTENCY REFERENCE — Book Monster: SIGNATURE round fluffy lavender-purple blob, SIGNATURE oversized friendly googly eyes, now shrunk to a tiny ant-sized speck, cute and harmless, hopping away with a sparkle.
 Action: teacher Jang Seo-yeon back in her bright classroom smiling warmly with Ji-an and Yun-a beside her, the tiny shrunken purple speck bouncing off into a corner of light.
 Setting: a warm sunlit elementary school classroom, books neatly on shelves, peaceful joyful resolution, soft golden glow.
